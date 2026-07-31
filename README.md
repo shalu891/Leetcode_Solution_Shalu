@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0485-max-consecutive-ones) |
@@ -31,19 +32,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0414-third-maximum-number) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/2733-neither-minimum-nor-maximum) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
