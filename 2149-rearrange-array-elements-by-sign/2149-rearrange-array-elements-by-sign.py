@@ -2,6 +2,7 @@ class Solution(object):
     def rearrangeArray(self, nums):
         pos = []
         neg = []
+        
         for num in nums:
             if num >= 0:
                 pos.append(num)
