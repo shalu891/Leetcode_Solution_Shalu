@@ -5,7 +5,7 @@ class Solution(object):
         neg_idx = 1
          
         for num in nums:
-            if num > 0:
+            if num >= 0:
                 ans[pos_idx] = num
                 pos_idx += 2
             else:
