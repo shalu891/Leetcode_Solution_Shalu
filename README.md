@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0345-reverse-vowels-of-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -117,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0020-valid-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
