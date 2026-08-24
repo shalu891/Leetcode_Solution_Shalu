@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0151-reverse-words-in-a-string) |
+| [0290-word-pattern](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0345-reverse-vowels-of-a-string) |
 ## Array
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0290-word-pattern) |
 ## Math
 |  |
 | ------- |
