@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0392-is-subsequence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0485-max-consecutive-ones) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0414-third-maximum-number) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/2733-neither-minimum-nor-maximum) |
 ## Hash Table
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0290-word-pattern) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
@@ -95,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
