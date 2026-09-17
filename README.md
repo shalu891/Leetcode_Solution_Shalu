@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0088-merge-sorted-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0392-is-subsequence) |
 ## Simulation
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0073-set-matrix-zeroes) |
 ## Sliding Window
 |  |
