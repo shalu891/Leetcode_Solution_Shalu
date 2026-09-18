@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0268-missing-number) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0326-power-of-three) |
@@ -217,4 +219,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/1480-running-sum-of-1d-array) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
