@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0392-is-subsequence) |
 ## Array
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/2733-neither-minimum-nor-maximum) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
 |  |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
