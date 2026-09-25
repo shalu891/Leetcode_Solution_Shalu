@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0392-is-subsequence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0414-third-maximum-number) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0389-find-the-difference) |
@@ -136,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
