@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0151-reverse-words-in-a-string) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0069-sqrtx) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/2149-rearrange-array-elements-by-sign) |
