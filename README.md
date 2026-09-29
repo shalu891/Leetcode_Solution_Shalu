@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0345-reverse-vowels-of-a-string) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0217-contains-duplicate) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0268-missing-number) |
@@ -286,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
