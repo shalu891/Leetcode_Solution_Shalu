@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0342-power-of-four) |
 ## Newton's Method
 |  |
 | ------- |
