@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0415-add-strings) |
 | [0474-ones-and-zeroes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0474-ones-and-zeroes) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0884-uncommon-words-from-two-sentences) |
 ## Array
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0415-add-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0415-add-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
