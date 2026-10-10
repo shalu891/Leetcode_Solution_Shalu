@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0073-set-matrix-zeroes) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0415-add-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0073-set-matrix-zeroes) |
 ## Sliding Window
