@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0561-array-partition](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/2733-neither-minimum-nor-maximum) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0179-largest-number) |
+| [0561-array-partition](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0561-array-partition) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -341,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0139-word-break) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
