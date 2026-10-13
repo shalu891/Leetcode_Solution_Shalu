@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0136-single-number) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0392-is-subsequence) |
