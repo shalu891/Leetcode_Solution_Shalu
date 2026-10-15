@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0139-word-break) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0056-merge-intervals) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0169-majority-element) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0139-word-break) |
