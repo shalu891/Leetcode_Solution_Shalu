@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0643-maximum-average-subarray-i) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0496-next-greater-element-i) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0884-uncommon-words-from-two-sentences) |
 ## Math
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -360,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0056-merge-intervals) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
