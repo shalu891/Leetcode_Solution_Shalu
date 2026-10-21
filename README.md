@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0066-plus-one) |
