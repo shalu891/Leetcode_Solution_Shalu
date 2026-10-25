@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0415-add-strings) |
 | [0474-ones-and-zeroes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0474-ones-and-zeroes) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0884-uncommon-words-from-two-sentences) |
 ## Array
 |  |
