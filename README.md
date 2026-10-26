@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0415-add-strings) |
+| [0566-reshape-the-matrix](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0566-reshape-the-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0073-set-matrix-zeroes) |
+| [0566-reshape-the-matrix](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0566-reshape-the-matrix) |
 ## Sliding Window
 |  |
 | ------- |
