@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0283-move-zeroes) |
+| [0321-create-maximum-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0321-create-maximum-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0300-longest-increasing-subsequence) |
+| [0321-create-maximum-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0321-create-maximum-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0368-largest-divisible-subset) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0020-valid-parentheses) |
+| [0321-create-maximum-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0179-largest-number) |
+| [0321-create-maximum-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0321-create-maximum-number) |
 | [0561-array-partition](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0561-array-partition) |
 ## Knapsack Problem
 |  |
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0496-next-greater-element-i) |
 ## Longest Increasing Subsequence
 |  |
