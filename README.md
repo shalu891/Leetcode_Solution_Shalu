@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0539-minimum-time-difference) |
+| [0542-01-matrix](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0628-maximum-product-of-three-numbers) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0474-ones-and-zeroes) |
+| [0542-01-matrix](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0542-01-matrix) |
 | [0792-number-of-matching-subsequences](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0792-number-of-matching-subsequences) |
 | [0813-largest-sum-of-averages](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0813-largest-sum-of-averages) |
 ## Simulation
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0073-set-matrix-zeroes) |
+| [0542-01-matrix](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0566-reshape-the-matrix) |
 ## Sliding Window
 |  |
@@ -425,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0300-longest-increasing-subsequence) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
