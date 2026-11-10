@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0268-missing-number) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0139-word-break) |
+| [0233-number-of-digit-one](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0392-is-subsequence) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0342-power-of-four) |
 ## Newton's Method
