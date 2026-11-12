@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/1480-running-sum-of-1d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/2733-neither-minimum-nor-maximum) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Sorting
 |  |
 | ------- |
