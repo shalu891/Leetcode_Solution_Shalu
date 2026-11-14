@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0643-maximum-average-subarray-i) |
+| [0646-maximum-length-of-pair-chain](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0646-maximum-length-of-pair-chain) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0646-maximum-length-of-pair-chain) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0792-number-of-matching-subsequences](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0792-number-of-matching-subsequences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/2733-neither-minimum-nor-maximum) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0542-01-matrix) |
+| [0646-maximum-length-of-pair-chain](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0646-maximum-length-of-pair-chain) |
 | [0792-number-of-matching-subsequences](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0792-number-of-matching-subsequences) |
 | [0813-largest-sum-of-averages](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0813-largest-sum-of-averages) |
 ## Simulation
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0179-largest-number) |
 | [0321-create-maximum-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0321-create-maximum-number) |
 | [0561-array-partition](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0561-array-partition) |
+| [0646-maximum-length-of-pair-chain](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0646-maximum-length-of-pair-chain) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -432,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0646-maximum-length-of-pair-chain) |
 ## Breadth-First Search
 |  |
 | ------- |
