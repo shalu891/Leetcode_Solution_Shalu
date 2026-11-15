@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0189-rotate-array) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0143-reorder-list) |
 | [0321-create-maximum-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0326-power-of-three) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0143-reorder-list](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0160-intersection-of-two-linked-lists) |
 | [1669-merge-in-between-linked-lists](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/1669-merge-in-between-linked-lists) |
