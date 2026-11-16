@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0368-largest-divisible-subset) |
 | [0415-add-strings](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0415-add-strings) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0139-word-break) |
 | [0233-number-of-digit-one](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0300-longest-increasing-subsequence) |
+| [0357-count-numbers-with-unique-digits](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0474-ones-and-zeroes) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0039-combination-sum) |
+| [0357-count-numbers-with-unique-digits](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0357-count-numbers-with-unique-digits) |
 | [0491-non-decreasing-subsequences](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0491-non-decreasing-subsequences) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
