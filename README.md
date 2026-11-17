@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0792-number-of-matching-subsequences](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0792-number-of-matching-subsequences) |
 | [0813-largest-sum-of-averages](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0813-largest-sum-of-averages) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/1480-running-sum-of-1d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/2733-neither-minimum-nor-maximum) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0367-valid-perfect-square) |
 | [0436-find-right-interval](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0436-find-right-interval) |
 | [0792-number-of-matching-subsequences](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0792-number-of-matching-subsequences) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0073-set-matrix-zeroes) |
 | [0542-01-matrix](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0566-reshape-the-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Sliding Window
 |  |
 | ------- |
