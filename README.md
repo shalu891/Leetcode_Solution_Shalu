@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/1480-running-sum-of-1d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/2733-neither-minimum-nor-maximum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Sorting
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0436-find-right-interval) |
 | [0792-number-of-matching-subsequences](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0792-number-of-matching-subsequences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0884-uncommon-words-from-two-sentences) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Linked List
 |  |
 | ------- |
