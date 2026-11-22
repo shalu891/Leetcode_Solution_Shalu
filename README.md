@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0792-number-of-matching-subsequences](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0792-number-of-matching-subsequences) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0884-uncommon-words-from-two-sentences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Array
 |  |
 | ------- |
