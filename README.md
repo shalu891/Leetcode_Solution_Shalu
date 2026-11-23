@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-largest-sum-of-averages](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0813-largest-sum-of-averages) |
 | [1200-minimum-absolute-difference](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/1480-running-sum-of-1d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0507-perfect-number) |
 | [0539-minimum-time-difference](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0628-maximum-product-of-three-numbers) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/1352-product-of-the-last-k-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0724-find-pivot-index) |
 | [0813-largest-sum-of-averages](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0813-largest-sum-of-averages) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/1480-running-sum-of-1d-array) |
 ## Enumeration
 |  |
@@ -461,4 +464,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0542-01-matrix) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
