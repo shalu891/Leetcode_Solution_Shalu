@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/2733-neither-minimum-nor-maximum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sorting
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0628-maximum-product-of-three-numbers) |
 | [1352-product-of-the-last-k-numbers](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/1352-product-of-the-last-k-numbers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Binary Search
 |  |
 | ------- |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0643-maximum-average-subarray-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Stack
 |  |
 | ------- |
@@ -382,11 +385,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0204-count-primes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0258-add-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Primality Test
 |  |
 | ------- |
