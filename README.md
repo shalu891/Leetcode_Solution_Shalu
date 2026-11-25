@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/2733-neither-minimum-nor-maximum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3934-smallest-unique-subarray](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0496-next-greater-element-i) |
 | [0792-number-of-matching-subsequences](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0792-number-of-matching-subsequences) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0884-uncommon-words-from-two-sentences) |
+| [3934-smallest-unique-subarray](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0792-number-of-matching-subsequences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3934-smallest-unique-subarray](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/3934-smallest-unique-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -477,4 +480,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
