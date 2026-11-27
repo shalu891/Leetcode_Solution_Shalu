@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3934-smallest-unique-subarray](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0646-maximum-length-of-pair-chain) |
 | [0792-number-of-matching-subsequences](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0792-number-of-matching-subsequences) |
 | [0813-largest-sum-of-averages](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0813-largest-sum-of-averages) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Simulation
 |  |
 | ------- |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0321-create-maximum-number) |
 | [0561-array-partition](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0561-array-partition) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0646-maximum-length-of-pair-chain) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Knapsack Problem
 |  |
 | ------- |
