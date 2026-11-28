@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3411-maximum-subarray-with-equal-products](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3934-smallest-unique-subarray](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0792-number-of-matching-subsequences) |
 | [1200-minimum-absolute-difference](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/1200-minimum-absolute-difference) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/2733-neither-minimum-nor-maximum) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0561-array-partition) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/0646-maximum-length-of-pair-chain) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -497,4 +500,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/3934-smallest-unique-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/shalu891/Leetcode_Solution_Shalu/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 <!---LeetCode Topics End-->
